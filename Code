@@ -80,7 +80,6 @@ def print_F3(update, context):
         posizione += 1
 
 
-TOKEN = "1043865922:AAFQi8FhRWPNY13Z4U2KktBjgx9_Xp0mfbo"
 
 
 def main():
